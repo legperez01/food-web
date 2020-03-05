@@ -1,0 +1,13 @@
+.divSearch {
+  width: "100%";
+  display: flex;
+}
+
+.inputSearch {
+  flex-grow: 12;
+}
+
+.IconSearch {
+  flex-grow: 0;
+  background-color: gray;
+}
